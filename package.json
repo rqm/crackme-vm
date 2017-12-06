@@ -1,0 +1,24 @@
+{
+  "name": "crackme-vm",
+  "version": "1.0.0",
+  "description": "Simple node crackme using vm. No patching. Solution === license key",
+  "main": "index.js",
+  "scripts": {
+    "start": "node crackme.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rqm/crackme-vm.git"
+  },
+  "keywords": [
+    "crackme",
+    "vm"
+  ],
+  "author": "rqm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rqm/crackme-vm/issues"
+  },
+  "homepage": "https://github.com/rqm/crackme-vm#readme"
+}
